@@ -1,0 +1,8 @@
+{
+  "apps" : [
+    {
+      "name": "2022",
+      "script": "npm run serve"
+    }
+  ]
+}
